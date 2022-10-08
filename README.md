@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Server Hosting<br>🌱 I’m currently learning Git, JavaScript, Hardware Hacking, networking<br>💬 Ask me about everything you think I might know<br>⚡ Fun fact: IDK
+🔭 I’m currently working on Server Hosting<br>🌱 I’m currently learning Git, JavaScript, Hardware Hacking, networking<br>💬 Ask me about everything you think I might know<br>⚡ Fun fact: I want a Flipper Zero
 
 
 ## 🌐 Socials:
