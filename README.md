@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a <a href="https://github.com/floskurr/Haptic-Feedback-Knob">haptic feedback knob</a> and Frontend Web Design<br>🌱 I’m currently learning Git, JavaScript, Hardware Hacking, networking<br>💬 Ask me about everything you think I might know<br>⚡ Fun fact: I want a Flipper Zero
+🔭 I’m currently working on a <a href="https://github.com/floskurr/dartsCV">dartsCV</a> a computer vision darts scoring system<br>🌱 I’m currently learning Git, JavaScript, Hardware Hacking, networking<br>💬 Ask me about everything you think I might know<br>⚡ Fun fact: I want a Flipper Zero
 
 
 ## 🌐 Socials:
