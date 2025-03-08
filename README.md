@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a <a href="https://github.com/floskurr/dartsCV">dartsCV</a> a computer vision darts scoring system<br>🌱 I’m currently learning Git, JavaScript, Hardware Hacking, networking<br>💬 Ask me about everything you think I might know<br>⚡ Fun fact: I want a Flipper Zero
+🔭 I’m currently working on building a perfect Homeassistant environment for monitoring energy consumption and optimizing my energy usage. Also I want to bring back the [random memer](https://github.com/techytushar/random-memer)<br>🌱 I’m currently learning Git, JavaScript, Hardware Hacking, building own FlipperZero modules<br>💬 Ask me about everything you think I might know<br>⚡ Fun fact: I want a Flipper Zero<br>⚡ even better fun fact: I got one a few months ago
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=floskurr&icon=0&color=0)](https://visitcount.itsvg.in)
